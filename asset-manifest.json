@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/nomad-assignment-crypto/static/js/main.8f52b40f.js",
+    "index.html": "/nomad-assignment-crypto/index.html",
+    "main.8f52b40f.js.map": "/nomad-assignment-crypto/static/js/main.8f52b40f.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8f52b40f.js"
+  ]
+}
